@@ -59,9 +59,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ~~~
 ## OUTPUT
-~~~
+
 <img width="1600" height="609" alt="image" src="https://github.com/user-attachments/assets/dd210fe5-23c1-4432-a65a-e66661b97a35" />
 <img width="1600" height="295" alt="image" src="https://github.com/user-attachments/assets/05141843-0e30-4681-a0bd-e5565f1f7ebd" />
-~~~
 ## RESULT:
 The program is executed successfully
